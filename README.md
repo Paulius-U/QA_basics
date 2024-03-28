@@ -47,7 +47,7 @@ Tikslumas: Užtikrinkite, kad sistemos skaičiavimai ir stebėjimas tiksliai ats
 
 Mitybos skaičiavimų ir kalorijų skaičiavimo tikslumo užtikrinimas yra labai svarbus, kad sistema veiksmingai atliktų savo paskirtį.
 
-#Reikalavimai:
+# Reikalavimai:
 Vartotojo
 
 Aš kaip vartotojas, noriu ištrinti paskyrą.
