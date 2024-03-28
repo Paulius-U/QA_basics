@@ -285,8 +285,8 @@ Galimų klaidų skaičius (B): B ≈ (341.194 ^ (2/3)) / 3000 ≈ 0.175
 McCabe metrikos
 McCabe metrikos apskaičiuojama su kodu ir naudojant Catalyze extension per VS Code.
 
-Open image-20231022-231608.png
-image-20231022-231608.png
+![image](https://github.com/Paulius-U/QA_basics/assets/75576100/68b0258b-74de-42c6-995b-c795e5ec98c9)
+
 code:
 import radon
 from radon.complexity import cc_visit, cc_rank
@@ -548,15 +548,15 @@ Sudėtingumo metrikoms (WMC, CBO, RFC, NOC, DIT) skaičiuoti pasinaudojau Intell
 
 Kadangi mūsų projektas nėra OOP programa todėl buvo gauti rezultatai su 100 %.
 
-Open image-20231023-214032.png
-image-20231023-214032.png
+![image](https://github.com/Paulius-U/QA_basics/assets/75576100/85db0d8d-ebd1-474b-ba51-4ea89c0f6d80)
+
 Calory_calcolator projekt sudėtingumo metrika
 Todėl kad gautume naujus rezultatus kurie nebūtų 100 % buvo naudojama visai naujas projektas. Naujas projektas yra minesweeper. 
 
 Nauji rezultatai buvo gauti tokie:
 
-Open image-20231023-214753.png
-image-20231023-214753.png
+![image](https://github.com/Paulius-U/QA_basics/assets/75576100/dd84dd24-f39a-4f6b-ad0f-38c80d75e70a)
+
 Minesweeper projekto sudėtingumo metrika
 AHF (Aukšto lygio modulių abstraktumas) - 75,56 %: 
 
