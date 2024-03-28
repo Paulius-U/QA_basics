@@ -47,103 +47,20 @@ Directory d:\QA\calorie-calculator-python-code\Fityfeed
 
 Total : 32 files, 1027 codes, 142 comments, 171 blanks, all 1340 lines
 
-Languages
-language
 
-files
+# Languages
 
-code
+language    files    code    comment    blank    total
+HTML         10      601        7        65       673
+Python       22      426       135      106       667
 
-comment
 
-blank
-
-total
-
-HTML
-
-10
-
-601
-
-7
-
-65
-
-673
-
-Python
-
-22
-
-426
-
-135
-
-106
-
-667
-
-Directories
-path
-
-files
-
-code
-
-comment
-
-blank
-
-total
-
-.
-
-32
-
-1,027
-
-142
-
-171
-
-1,340
-
-. (Files)
-
-11
-
-259
-
-125
-
-44
-
-428
-
-migrations
-
-11
-
-167
-
-10
-
-62
-
-239
-
-templates
-
-10
-
-601
-
-7
-
-65
-
-673
+# Directories
+path        files     code     comment     blank     total
+.            32       1027      142         171      1340
+. (Files)    11       259       125         44       428
+migrations   11       167       10          62       239
+templates    10       601       7           65       673
 
 ![image](https://github.com/Paulius-U/QA_basics/assets/75576100/c746a389-4f3d-4482-8d68-0f2de7d39aae)
 
